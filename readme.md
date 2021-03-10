@@ -1,6 +1,6 @@
 # Davinci CTLs For Fun & Profit
 
-I made a DCTL, more coming soon. [Lemme know what you think!](https://twitter.com/gedaly)
+Want to add a couple fun features to Blackmagic Design's DaVinci Resolve? These are just my experiments, so use at your own risk. More coming soon. [Lemme know what you think!](https://twitter.com/gedaly)
 
 ## Installation
 
